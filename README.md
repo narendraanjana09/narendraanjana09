@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narendraanjana09
-- 👀 I’m interested in Android Development, Flutter.
+- 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Projects on Native Android or Flutter 
 - 📫 How to reach me 📧 narendraanjana09@gmail.com
