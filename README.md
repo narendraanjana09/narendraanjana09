@@ -9,7 +9,7 @@
 
 - 🎨 MY Figma Projects are available at [https://www.figma.com/file/SI43d9c3TrRE5R0ePCdBB3/Narendra-Projects?node-id=0%3A1&t=KsnCCVO9AzCQpfpZ-1](https://www.figma.com/file/SI43d9c3TrRE5R0ePCdBB3/Narendra-Projects?node-id=0%3A1&t=KsnCCVO9AzCQpfpZ-1)
 
-- 📝 I regularly post reels on Insta [https://www.instagram.com/narendra_aanjna_09/](https://www.instagram.com/narendra_aanjna_09/)
+- 📝 I regularly post UI/UX reels on Insta [https://www.instagram.com/narendra_aanjna_09/](https://www.instagram.com/narendra_aanjna_09/)
 
 - 📫 How to reach me **narendraanjana09@gmail.com**
 
