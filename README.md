@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendraanjana09&label=Profile%20views&color=0e75b6&style=flat" alt="narendraanjana09" /> </p>
 
-- 🚀 Android Engineer with 3+ years of experience shipping features to **5M+ users** at [Gratitude](https://play.google.com/store/apps/details?id=com.gratitude.journal)
+- 🚀 Android Engineer with 3+ years of experience shipping features to **5M+ users** at [Gratitude](https://play.google.com/store/apps/details?id=com.northstar.gratitude)
 
 - 🏆 Work **showcased at Google I/O 2026** in the 'What's new in Android' session and **featured on the Android Developers blog** with a 25% boost in retention
 
