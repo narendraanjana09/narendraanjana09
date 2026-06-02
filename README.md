@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/narendra-singh-aanjna-454bb6190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://x.com/aanjananarendr" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="X" height="30" width="40" alt="X.com" /></a>
+<a href="https://x.com/aanjananarendr" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" height="30" width="40" alt="X.com" /></a>
 <a href="https://instagram.com/narendra_aanjna_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/narendra_nsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
