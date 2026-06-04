@@ -15,6 +15,8 @@
 
 - 🌐 Portfolio: [narendraanjana.com](https://www.narendraanjana.com/)
 
+- 📝 Articles on [Medium](https://medium.com/@narendraanjana09)
+
 - 📄 Resume: [View here](https://drive.google.com/file/d/1cEXl3nZdr_Jwo3UFjGPaYXewJBQK5kqf/view?usp=sharing)
 
 - 📫 Reach me at **narendraanjana09@gmail.com**
